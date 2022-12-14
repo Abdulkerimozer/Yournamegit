@@ -1,3 +1,3 @@
 # Yournamegit
 
-Get-service
+Get-service -name spooler
